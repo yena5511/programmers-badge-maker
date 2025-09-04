@@ -74,8 +74,8 @@ const main = async () => {
   <rect width="150" height="21" fill="white" transform="translate(10 10)"/>
   </clipPath>
   </defs>
-  <text text-anchor="left" x="40" y="64" class="title" style="fill:#000000;" stroke="#none" stroke-width="1" >solved : ${solved}</text>
-  <text text-anchor="left" x="39.5" y="92" class="title" style="fill:#000000;" stroke="#none" stroke-width="1" >rank : ${rank}</text>
+  <text text-anchor="left" x="39.5" y="92" class="title" style="fill:#000000;" stroke="#none" stroke-width="1" >solved : ${solved}</text>
+  <text text-anchor="left" x="40" y="64" class="title" style="fill:#000000;" stroke="#none" stroke-width="1" >rank : ${rank}</text>
   <text text-anchor="left" x="40.5" y="121" class="title" style="fill:#000000;" stroke="#none" stroke-width="1" >score : ${score}</text>
   </svg>
 `;
